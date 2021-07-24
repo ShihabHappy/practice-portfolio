@@ -1,10 +1,10 @@
 body{
-    font-family: 'Poppins', sans-serif;
+        font-family: 'Poppins', sans-serif;
 }
 h1{
     font-size: 50px;
 }
-.coler-orange{
+.color{
     color: orange;
 }
 section{
@@ -17,9 +17,11 @@ section{
 .half-width img{
     width: 80%;
 }
-.hireme-button{
+.hire-button{
     text-decoration: none;
-    background-image: linear-gradient orange tomato);
+    background: linear-gradient( 40deg,lightsalmon,tomato);
     padding: 10px 40px;
     border-radius: 5px;
+    color: white;
+    font-weight: 700;
 }
